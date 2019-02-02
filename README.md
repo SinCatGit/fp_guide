@@ -7,7 +7,7 @@
 - [ ]  [Learn Yourself Haskell](http://learnyouahaskell.com/chapters/)
 
  
-## 函数编程特点
+## 函数式编程特点
 
 ### 递归
 
